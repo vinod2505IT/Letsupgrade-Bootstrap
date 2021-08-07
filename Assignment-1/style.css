@@ -1,0 +1,14 @@
+.my-container {
+  height: 100vh;
+}
+.row-1,
+.row-2,
+.row-3 {
+  background-color: burlywood;
+}
+
+.row-1-block,
+.row-2-block,
+.row-3-block {
+  height: 150px !important;
+}
